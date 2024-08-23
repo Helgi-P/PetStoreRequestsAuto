@@ -1,0 +1,4 @@
+
+Upload pet image: checking additional data
+Text: {"code":200,"type":"unknown","message":"additionalMetadata: \nFile uploaded to ./tmp5ilwr3y5.png, 17499 bytes"}
+Status: 200
